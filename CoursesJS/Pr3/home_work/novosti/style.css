@@ -1,0 +1,22 @@
+h1 {
+    color: blue;
+}
+footer {
+    color: green;
+    float: right;
+}
+header + nav {
+    color: gray;
+}
+.red {
+    color: red;
+}
+.yellow {
+    color: yellow;
+}
+.blue {
+    color: blue;
+}
+.turq {
+    color: turquoise;
+}

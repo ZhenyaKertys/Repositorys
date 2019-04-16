@@ -1,0 +1,22 @@
+#up {
+    float: left;
+}
+* {
+    color: brown;
+}
+h1 {
+    color: red;
+}
+h2 {
+    color: green;
+}
+footer {
+    color: blue;
+}
+.right {
+    float: right;
+    color: blue;
+}
+nav {
+    float: right
+}

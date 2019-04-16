@@ -1,0 +1,21 @@
+p[class="edge"] {
+    color: red;
+}
+#MyTitle2 {
+    color: blue;
+}
+#MyTitle3 p {
+    color: blue;
+}
+#Frirst+h1 {
+    color: yellow;
+}
+#MyTitle2+h1 {
+    color: yellow;
+}
+a + b {
+    color: blue;
+}
+#MyTitle3 a + b {
+    color: yellow;
+}

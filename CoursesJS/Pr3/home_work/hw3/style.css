@@ -1,0 +1,34 @@
+.ok {
+    color: brown;
+} /* Незнаю чому не працють ці стилі*/
+.last {
+    color: brown;
+}
+#red {
+    color: yellow;
+}
+#blue {
+    color: yellow;
+}
+th {
+    background: blue;
+}
+.pink {
+    background: pink;
+}
+.blue {
+    background-color: aquamarine;
+}
+.grey {
+    background-color: ghostwhite;
+}
+.green {
+    background-color: green;
+    color: white;
+}
+.rose {
+    background-color: rosybrown;
+}
+.dz {
+    border: 2px solid black;
+}
